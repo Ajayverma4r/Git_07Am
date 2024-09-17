@@ -1,14 +1,14 @@
 bucket = {
   bucket1 = {
-    bucket_name = "myjpc"
+    bucket_name = "ajs3buckets3aj1"
 
   },
   bucket2 = {
-    bucket_name = "myjpc2"
+    bucket_name = "ajs3buckets3aj2"
 
   },
   bucket3 = {
-    bucket_name = "myjpc3"
+    bucket_name = "ajs3buckets3aj3"
 
   }
 }
